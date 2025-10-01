@@ -12,7 +12,7 @@ Build a simple To-Do list using Java Swing to understand GUI development, event 
 2. Compile the Java file:
    javac ToDoApp.java
 
-   Run the program:
+3.  Run the program:
 java ToDoApp
 
 Example
