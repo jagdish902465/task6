@@ -11,6 +11,7 @@ Build a simple To-Do list using Java Swing to understand GUI development, event 
 1. Clone this repository.
 2. Compile the Java file:
    javac ToDoApp.java
+
    Run the program:
 java ToDoApp
 
