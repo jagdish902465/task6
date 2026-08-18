@@ -1,19 +1,16 @@
-# task6
-## Objective
+Objective
 Build a simple To-Do list using Java Swing to understand GUI development, event handling, and layout managers.
 
-## Features
-- Add new tasks to the list
-- Delete selected tasks
-- Scrollable list of tasks
+Features
+Add new tasks to the list
+Delete selected tasks
+Scrollable list of tasks
+How to Run
+Clone this repository.
 
-## How to Run
-1. Clone this repository.
-2. Compile the Java file:
-   javac ToDoApp.java
+Compile the Java file: javac ToDoApp.java
 
-3.  Run the program:
-java ToDoApp
+Run the program: java ToDoApp
 
 Example
 
